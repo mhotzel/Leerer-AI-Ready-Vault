@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "657ed1e402e1c07f",
+    "type": "split",
+    "children": [
+      {
+        "id": "21188408ec38f75d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "173a4402d5c822a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 Startseite.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "00 Startseite"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "403e77a4a8ffc50b",
+    "type": "split",
+    "children": [
+      {
+        "id": "a016692e56b50fbe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce52307abbec4129",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Dateiexplorer"
+            }
+          },
+          {
+            "id": "4fc55117e337ff90",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "#rezept",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Suchen"
+            }
+          },
+          {
+            "id": "2ffcca1eb5dcc028",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Lesezeichen"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 301.5
+  },
+  "right": {
+    "id": "19db156b3d0f62d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6043d47b3ac9cc2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f870bd33c336b15",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00 Startseite.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rückverweise auf 00 Startseite"
+            }
+          },
+          {
+            "id": "dc12393f98ef274d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "GenerierteNotizen/2026-05-05 Digitaler Euro - Online-Transaktion DE-DE.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Ausgehende Links von 2026-05-05 Digitaler Euro - Online-Transaktion DE-DE öffnen"
+            }
+          },
+          {
+            "id": "1a72f395a8cae751",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6fbfce3627397566",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Gliederung"
+            }
+          },
+          {
+            "id": "72314feeb78c4b76",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 531.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Neue Base erstellen": false,
+      "audio-recorder:Audioaufzeichnung starten/stoppen": false,
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graph-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "daily-notes:Heutige Notiz öffnen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
+    }
+  },
+  "active": "173a4402d5c822a3",
+  "lastOpenFiles": [
+    "Vorlagen/Vertrag.md",
+    "Vorlagen/Tägliche Notiz.md",
+    "Vorlagen/System - Anwendung.md",
+    "Vorlagen/Rezept.md",
+    "Vorlagen/Projekt.md",
+    "Vorlagen/Person.md",
+    "Vorlagen/Organisation.md",
+    "Vorlagen/Notiz.md",
+    "Vorlagen/Aufgabe.md",
+    "Vorlagen/Besprechungsnotizen.md",
+    "Vorlagen/Idee.md",
+    "Vorlagen/Mediennotiz.md",
+    "Claude/CLAUDE.md",
+    "Notizen/03 Projekte.md",
+    "Claude/Claude-Log.md",
+    "00 Startseite.md",
+    "GenerierteNotizen/2026-05-17 Indoeuropäische Kulturen Zeitreihe.md",
+    "Notizen/Unbenannt 1.base",
+    "GenerierteNotizen/Corded-Ware-Kultur.md",
+    "GenerierteNotizen/Sintashta-Kultur.md",
+    "GenerierteNotizen/Jamnaja-Kultur.md",
+    "GenerierteNotizen/Proto-Indoeuropäer (PIE).md",
+    "Dateien/~$indoeuropaeische_kulturen_zeitreihe.xlsx",
+    "Dateien/indoeuropaeische_kulturen_zeitreihe.xlsx",
+    "Notizen/Rezept LowCarb-Fischpfanne.md",
+    "Notizen/Rezept Bigos.md",
+    "GenerierteNotizen/2026-04-26 ZUGFeRD 1.0 Codelisten.md",
+    "Notizen/Unbenannt.base",
+    "Notizen/2026-05-08 Process Mining - Christian Drumm - Process Mining mit Apromore.md",
+    "Notizen/2026-05-07 SKP - Vorstudie Kreditsyndizierung 2.0 - Austausch GE + BS.md",
+    "GenerierteNotizen/assets/2026-05-05 Digitaler Euro - Lade- und Konvertierungsmechanismus.svg",
+    "GenerierteNotizen/assets/2026-05-05 Digitaler Euro - Online-Transaktion DE-DE.svg",
+    "GenerierteNotizen/assets",
+    "Dateien/~$gitaler-euro_aml.docx",
+    "Dateien/digitaler-euro_aml.docx",
+    "Dateien/digitaler-euro_transaktion.docx",
+    "Dateien/digitaler-euro_bundesbank_psp_aufsicht.docx",
+    "Dateien/digitaler-euro_bundesbank_herausforderungen.docx",
+    "Dateien/Farblegende-Eventstorming.png",
+    "Dateien/ChatGPT Image 3. Okt. 2025, 11_50_37.png",
+    "Dateien/Farblegende-Eventstorming-ChatGPT.png"
+  ]
+}

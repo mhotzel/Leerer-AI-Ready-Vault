@@ -1,0 +1,11 @@
+{
+  "accentColor": "#1b6b94",
+  "theme": "system",
+  "enabledCssSnippets": [
+    "snipp01",
+    "background"
+  ],
+  "nativeMenus": true,
+  "cssTheme": "Minimal",
+  "baseFontSize": 16
+}
