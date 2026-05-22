@@ -79,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5
+    "width": 202.5
   },
   "right": {
     "id": "19db156b3d0f62d7",
@@ -165,7 +165,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 531.5
+    "width": 244.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,6 +183,8 @@
   },
   "active": "173a4402d5c822a3",
   "lastOpenFiles": [
+    "Claude/Claude-Log.md",
+    "00 Startseite.md",
     "Vorlagen/Vertrag.md",
     "Vorlagen/Tägliche Notiz.md",
     "Vorlagen/System - Anwendung.md",
@@ -197,8 +199,6 @@
     "Vorlagen/Mediennotiz.md",
     "Claude/CLAUDE.md",
     "Notizen/03 Projekte.md",
-    "Claude/Claude-Log.md",
-    "00 Startseite.md",
     "GenerierteNotizen/2026-05-17 Indoeuropäische Kulturen Zeitreihe.md",
     "Notizen/Unbenannt 1.base",
     "GenerierteNotizen/Corded-Ware-Kultur.md",
