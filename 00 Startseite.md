@@ -1,8 +1,24 @@
 # Startseite
 
+# Ziel und Zweck
+
+Nutze Obsidian zusammen mit Claude CoWork als ein "Zweites Gehirn". Claude analysiert Dokumente, extrahiert Daten und Fakten und fasst diese für Analysen als Markdown-Files zusammen.
+
 ## Anleitung
 
-### Aufnahmeworkflow
+- Klone das Github-Repo
+- Richte es in Claude CoWork als Projekt ein
+- Konfiguriere den Ordner als Obsidian-Vault
+- Speichere Dokumente aller Art, Sprachdateien und Website-Clippings im Vault
+- Lasse die Datei analysieren
+- Nutze Obsidian samt seinen tollen Plugins für die Darstellung und weitere Bearbeitung
+
+**Weitere Anleitungen und Hintergründe:**
+
+- [YouTube / "Marc De Fanti"](https://youtu.be/mooN-fQW4Eo)
+- [YouTube / "Mit Mario"](https://youtu.be/52LoAEo1C_M)
+
+### Aufnahmeworkflow für Dokumente
 
 1. Füge zu analysierende Dateien (PDF's usw) in den Ordner `Dateien` ein.
 2. Konfiguriere bei Bedarf *Chrome* mit der *Clipping*-Erweiterung so, dass Website-Snippets in diesem Ordner landen.
